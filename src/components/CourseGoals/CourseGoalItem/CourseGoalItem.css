@@ -1,0 +1,24 @@
+.goal-item {
+  margin: 1rem 0;
+  background:linear-gradient(120deg,rgb(28, 159, 240),rgb(22, 81, 218));
+  box-shadow: 10px 4px 3px rgba(74, 179, 240, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: default;
+  display: flex;
+}
+
+.goal-item button {
+  font-size: 19px;
+  cursor: pointer;
+  border: 2px solid rgb(189, 184, 184);
+  position: absolute;
+  padding: auto;
+  margin: -7px 0 0 350px;
+  background: transparent;
+  border-radius: 50%;
+  color: white;
+}
+.goal-item button:hover{
+
+}
